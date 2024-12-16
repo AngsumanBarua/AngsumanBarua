@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AngsumanBarua](https://github.com/AngsumanBarua)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/AngsumanBarua">AngsumanBarua</a>
 
 - 📫 Reach me **angsumanbarua11@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/angsuman-barua-pritom-405664274/](https://www.linkedin.com/in/angsuman-barua-pritom-405664274/)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/angsuman-barua-pritom-405664274/">Angsuman</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
