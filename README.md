@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angsuman Barua Pritom</h1>
-<h3 align="center">I am a competitive programmer. I have participated in the 2022 ICPC Asia West Continent Final Contest and the 2022 and 2023 ICPC Asia Dhaka Regional Contests.</h3>
+<h3 align="center">I am a competitive programmer. I have participated in the 2022 ICPC Asia West Continent Final Contest, 2022 and 2023 ICPC Asia Dhaka Regional Contests.</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=angsumanbarua&color=blue" alt="Profile Views"></p>
 
