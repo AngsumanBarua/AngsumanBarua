@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angsuman Barua Pritom</h1>
 <h3 align="center">I am a competitive programmer. I have participated in the 2022 ICPC Asia West Continent Final Contest, 2022 and 2023 ICPC Asia Dhaka Regional Contests.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angsumanbarua&label=Profile%20views&color=0e75b6&style=flat" alt="angsumanbarua" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angsumanbarua" alt="angsumanbarua" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
